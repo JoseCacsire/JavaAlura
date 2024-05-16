@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ConversorMonedas&apos; to &apos;ConversorMonedasConWindowsBuilder&apos;" description="Rename resource &apos;ConversorMonedas&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ConversorMonedas" name="ConversorMonedasConWindowsBuilder" stamp="1689743965768" updateReferences="true"/>
+</session>
